@@ -1,5 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Young+Serif&display=swap');
-
+.nom{
+    display: swap;
+    font-family: 'Alliso family,', cursive;
+    font-size: 45px;
+    font-weight: bold;
+  olor: rgb(209, 102, 66);
+}
 .projet-card {
     background-color: #ffffff;
 }
@@ -47,7 +52,7 @@ html {
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    
     line-height: 1.6;
     color: var(--text-color);
     background-color: var(--bg-color);
